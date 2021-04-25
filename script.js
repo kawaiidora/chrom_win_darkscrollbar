@@ -5,7 +5,8 @@
 // @grant          none
 // @version        0.1
 // @author         Dora
-// @updateURL      geasyfork said it will change
+// @updateURL      https://raw.githubusercontent.com/kawaiidora/chrom_win_darkscrollbar/main/script.js
+// @downloadURL    https://raw.githubusercontent.com/kawaiidora/chrom_win_darkscrollbar/main/script.js
 // @homepageurl    https://github.com/kawaiidora/chrom_win_darkscrollbar
 // @supporturl     https://github.com/kawaiidora/chrom_win_darkscrollbar/issues
 // @run-at         document-start
